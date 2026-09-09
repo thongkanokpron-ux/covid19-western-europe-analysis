@@ -51,3 +51,5 @@ The analysis leverages the following key datasets:
 Name: Thongkanok Pornchai
 GitHub: `@thongkanokpron-ux`
 ```
+
+**Full Report (PDF):** [Download Full Executive Report](docs/Covid19_DataStoryTelling_report.pdf)
